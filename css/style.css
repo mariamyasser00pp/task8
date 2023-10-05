@@ -1,0 +1,125 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+
+
+
+
+
+
+nav {
+    background-color: #90BC79;
+
+     
+}
+
+#btn1{
+    color: #fff !important;
+    background-color: #1C2900;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #1C2900 !important;
+    padding-left: 40px ;
+}
+
+nav ul li a:hover{
+    color: white !important;
+}
+
+nav div .navbar-brand{
+ font-size: 2rem;
+ padding-left: 90px !important;
+ font-weight: 700;
+}
+
+
+
+/*header*/
+header{
+    background-color: #90BC79;
+}
+#btn {
+    color: #fff;
+    background-color: #1C2900;
+}
+#btn2{
+    border:3px #1C2900 solid;
+    color: #1C2900;
+}
+#btn2:hover{
+    color: #fff;
+ background-color: #1C2900;
+}
+#head{
+   align-items: center;
+}
+header #parag{
+    font-weight: 700;
+    font-size: 60px;
+}
+/**/
+.contain{
+  
+    background-color:#90BC79;
+}
+#shampoo-1 h1{
+ color: #90BC79 ;
+ font-size: 40px;
+}
+#shampoo-1 p{
+    font-size: 17px;
+}
+#btn3{
+    background-color: #90BC79;
+    color: #fff;
+}
+#btn3:hover{
+    background-color: #a1c68d;
+   border-color:#9bc386 ;
+}
+#shampoo2{
+    margin-top: 100px;
+    background-color: #90BC79;
+}
+/**/
+#shampoo4 div h1{
+    color: #1C2900;
+}
+#shampoo4 div h1 span{
+  color: #90BC79;
+}
+#shampoo4 div i{
+    color: #90BC79;
+}
+#shampoo4 div h5{
+    color: #90BC79;
+}
+#shampoo4  a {
+    color: #90BC79;
+    border: 2px #90BC79 solid;
+
+}
+#shampoo4 a:hover{
+    color: white;
+    background-color: #90BC79;
+}
+
+/**/
+.shampoo7{
+  background-color: #90BC79;
+}
+.shampoo7 input{
+    height: 55px;
+   width: 50%;
+   border: 2px solid white;
+   background-color: rgba(255, 255, 255, .3);
+}
+.shampoo7 input:hover{
+    border: 2px solid rgb(227, 227, 227);
+}
+/*footer*/
